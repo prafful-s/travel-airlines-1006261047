@@ -1,22 +1,14 @@
 {
   "mappings": [
-    "/content/carvelo/language-masters/en:/",
-    "/content/carvelo/language-masters/en/:/en/",
-    "/content/carvelo/language-masters/fr/:/fr/",
-    "/content/carvelo/language-masters/fr:/fr",
-    "/content/carvelo/language-masters/es/:/es/",
-    "/content/carvelo/language-masters/es:/es",
-    "/content/carvelo/language-masters/ja/:/ja/",
-    "/content/carvelo/language-masters/ja:/ja",
-    "/content/carvelo/language-masters/de/:/de/",
-    "/content/carvelo/language-masters/de:/de",
-    "/content/carvelo/configuration:/.helix/config.json",
-    "/content/carvelo/metadata:/metadata.json",
-    "/content/carvelo/redirects:/redirects.json",
-    "/content/carvelo/placeholders:/placeholders.json"
+    "/content/pbakliwal/6a2940a5e5037457e262c316/language-masters/en:/",
+    "/content/pbakliwal/6a2940a5e5037457e262c316/language-masters/en/:/en/",
+    "/content/pbakliwal/6a2940a5e5037457e262c316/configuration:/.helix/config.json",
+    "/content/pbakliwal/6a2940a5e5037457e262c316/metadata:/metadata.json",
+    "/content/pbakliwal/6a2940a5e5037457e262c316/redirects:/redirects.json",
+    "/content/pbakliwal/6a2940a5e5037457e262c316/placeholders:/placeholders.json"
   ],
   "includes": [
-    "/content/carvelo/",
-    "/content/dam/carvelo/"
+    "/content/pbakliwal/6a2940a5e5037457e262c316/",
+    "/content/dam/pbakliwal/6a2940a5e5037457e262c316/"
   ]
 }
